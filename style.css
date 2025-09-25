@@ -15,14 +15,14 @@ margin: 0px; /* não terá margem padrão*/
 
 header {
 border: solid 2px;
-border-color: var(--branco);/*cor da borda*/
+border-color: var(--preto);/*cor da borda*/
 padding: 20px;/*espaçamento interno*/
 font-size: 32px;/*tamanho da fonte*/
 color: var(--amarelo);/*cor da fonte*/
 }
 
 .chamada-texto {
-background-color: var(--amarelo);
+background-color: var(--lilas-claro);
 color: var(--preto);
 margin-right: 20px;/*margem a direita*/
 }
@@ -74,6 +74,6 @@ margin-left: 30px;
 
 /*rodapé*/
 footer {
-color: var(--branco);
+color: var(--preto);
 text-align: center;
 }
